@@ -1,0 +1,27 @@
+Minor Project:
+	Diseases:
+  Base on lens:
+Myopia
+Hyperopia
+Astigmatism
+Presbyopia
+  Base on Age:
+Cataracts
+Glaucoma
+Diabetic Retinopathy
+Macular Degeneration
+
+
+	Image Preprocessing
+Normalization 
+Resizing
+augmentation 
+histogram equalization
+
+	Feature Extraction
+CNNs
+	Transfer Learning
+ResNet 
+VGG
+Inception
+	
